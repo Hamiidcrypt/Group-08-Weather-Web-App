@@ -81,7 +81,7 @@ Run the test suite to verify all functionality:
 
 ```bash
 # Run all tests
-python -m pytest tests/ -v
+Python -m pytest
 
 # Or using unittest
 python -m unittest tests/test_weather.py -v
