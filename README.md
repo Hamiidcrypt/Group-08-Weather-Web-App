@@ -162,29 +162,6 @@ app.run(host='0.0.0.0', port=5000, debug=True)
 
 ## 🎯 Grading Rubric Alignment
 
-### API Integration & Error Handling (20 pts) ✅
-- Complete WeatherClient class with robust error handling
-- Custom exception hierarchy for different error types
-- Network timeout and connection error handling
-- Graceful API failure responses
-
-### UI & Charts (15 pts) ✅  
-- Modern, responsive web interface
-- Current weather card with comprehensive information
-- 5-day forecast with visual temperature display
-- Loading states and error message handling
-
-### Tests & Caching (5 pts) ✅
-- Comprehensive unit test suite
-- TTL-based caching system with 10-minute expiration
-- Cache status indicators in UI
-
-### Extras (5 pts) ✅
-- Professional documentation
-- Domain-driven architecture
-- Network accessibility
-- Production-ready structure
-
 ## 🤝 Team Collaboration
 
 ### For Group Members
@@ -194,7 +171,7 @@ app.run(host='0.0.0.0', port=5000, debug=True)
 4. Access via team member's IP: `http://192.168.x.x:5000`
 
 ### Git Workflow
-- `.env` file is included for educational purposes
+- `.env` file is included 
 - All code changes should be committed to version control
 - Use feature branches for major changes
 
@@ -302,8 +279,6 @@ curl http://localhost:5000/api/cache/status
 
 For the 59 Second Demo Video:
 https://drive.google.com/file/d/1GrOxfe8tQFruoMkNsE8ySEY4R88kTFDK/view?usp=drivesdk
-
-
 
 ---
 
