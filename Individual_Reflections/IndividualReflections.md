@@ -36,3 +36,13 @@ During the Python Advanced cohort project, I served as a developer on a team of 
 The team collaboration was a highlight of the project. Communication was effective, and everyone contributed in meaningful ways, which made solving technical challenges easier. I learned the importance of aligning individual contributions with the larger system and gained valuable experience in writing clean, reusable code.  
 
 Overall, this project improved my Python skills, especially in data modeling and API handling, while also sharpening my teamwork abilities. I now feel more confident working on real-world applications that require collaboration, error handling, and structured design.
+
+---
+
+### 🧑‍💻 Babasanya AbdulSalam Feranmi  (Developer & Presenter)  
+
+Working on the Group 8 Weather Application project was both exciting and rewarding. As one of the main developers, my role involved contributing to the backend logic and ensuring smooth integration of the weather API with our Flask application. I worked closely on structuring the data flow between different components and troubleshooting issues related to API responses and caching. This gave me the opportunity to improve my Python skills while learning how to build reliable, real-world web applications.  
+
+In addition to my technical role, I will also serve as the project presenter. This responsibility allows me to practice communication and presentation skills by summarizing the team’s work and showcasing our application in a clear and engaging way. Preparing for the presentation helped me better understand the overall project architecture and the importance of teamwork in achieving success.  
+
+While the project had challenges, especially in coordinating tasks within the limited timeline, I am proud of what we achieved. The experience improved both my technical development abilities and my confidence in speaking and representing a team.  
